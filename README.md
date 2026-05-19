@@ -2,10 +2,10 @@
 
 # Concepts:
 
-DDL, DML, DCL, TCL
-Filtering, Sorting, Grouping & Paging
-Joins, Subqueries, Apply
-Views & Indexing
-Temp tables, CTE, Case/When
-Stored procedures, functions, triggers
+DDL, DML, DCL, TCL<br>
+Filtering, Sorting, Grouping & Paging<br>
+Joins, Subqueries, Apply<br>
+Views & Indexing<br>
+Temp tables, CTE, Case/When<br>
+Stored procedures, functions, triggers<br>
 SQL profiling and execution plans
